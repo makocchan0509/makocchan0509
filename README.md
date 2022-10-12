@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/makocchan0509/makocchan0509/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/makocchan0509/makocchan0509/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/makocchan0509/makocchan0509/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/makocchan0509/makocchan0509/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/makocchan0509/makocchan0509/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<figure><embed src="https://wakatime.com/share/@7a60c9e2-fae1-41aa-8945-493cfbaf137f/5dab590d-84a8-4bdd-b4a8-186a9b01979d.svg"></embed></figure>

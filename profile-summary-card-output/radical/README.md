@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/makocchan0509/makocchan0509/main/profile-summary-card-output/radical/4-productive-time.svg)
-```
-
-    
